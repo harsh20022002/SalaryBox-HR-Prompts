@@ -49,4 +49,4 @@ India’s simplest attendance, payroll & HR app for small businesses.
 
 ⭐ Star this repo if it saved you time today!
 
-#hrprompts #indianhr #chatgptforhr #salarybox #aihr
+#hrprompts #indianhr #chatgptforhr #salarybox #aihr 
